@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kucas Franco
 - 👀 I’m interested (at the moment) in being a backend developer on NodeJS
 - 🌱 I’m currently learning javascript/NodeJS
-- Still a beginner, but very interested in learning
+- I'm a beginner, but very interested in learning
 
 
 <!---
