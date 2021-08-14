@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kucas Franco
+- 👋 Hi, I’m Lucas Franco
 - 👀 I’m interested (at the moment) in being a backend developer on NodeJS
 - 🌱 I’m currently learning javascript/NodeJS
 - I'm a beginner, but very interested in learning
